@@ -1,0 +1,26 @@
+Kompiuterinis šriftas Palemonas
+
+
+© Albertas Gurskas (dizainas), Ona Aleknavičienė, Laima Grumadienė, Petras Skirmantas, Mindaugas Strockis, Vladas Tumasonis
+
+
+Licencijos nuostatos
+
+
+1. Palemonas yra viešam ir privačiam nemokamam naudojimui skirtas kompiuterinis šriftas.
+
+2. Palemono užsakovas yra Valstybinė lietuvių kalbos komisija (VLKK).
+
+3. Vykdytojas yra anksčiau išvardyta bendraautorių grupė.
+
+4. Palemono vartotojai yra visi, kam šitas kompiuterinis šriftas reikalingas ir tinkamas.
+
+5. Vartotojai gali Palemoną nemokamai atsisiųsti iš VLKK tinklalapio arba įsigyti kitu būdu. Palemoną vartotojai gali įdiegti į tiek kompiuterių, kiek reikia.
+
+6. Palemoną vartotojai gali platinti kartu su savo rinkmenomis (failais)  arba vieną patį, tačiau tik nemokamai.
+
+7. Palemoną vartotojai įsidiegia ir naudoja savo nuožiūra bei atsakomybe. Užsakovas ir vykdytojas neatsako už kompiuterio gedimus, taikomosios ir sisteminės programinės įrangos sutrikimus ar sunaikinimą, duomenų praradimą ar kitokius informacijos bei turto nuostolius, kuriuos būtų galima kaip nors sieti su Palemono įdiegimu ir naudojimu kompiuteryje arba netinkamu jo naudojimu.
+
+8. Palemono pildymu ir tobulinimu rūpinasi užsakovas ir vykdytojas. Vartotojams draudžiama Palemoną keisti, pildyti, transformuoti ar kitaip modifikuoti. Draudžiama daryti išvestinius šriftus iš Palemono.
+
+
